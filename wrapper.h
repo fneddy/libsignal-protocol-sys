@@ -15,4 +15,5 @@
 #include <signal/session_pre_key.h>
 #include <signal/session_record.h>
 #include <signal/session_state.h>
+#include <signal/signal_protocol.h>
 #include <signal/signal_protocol_types.h>
